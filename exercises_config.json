@@ -1,0 +1,182 @@
+[
+{
+"exercise_id": "left_elbow_flexion",
+"exercise_name": "Left Elbow Flexion",
+"target_joint": "elbow",
+"mediapipe_keypoints": [11, 13, 15],
+"start_angle": 170,
+"target_angle": 40,
+"error_margin": 10
+},
+{
+"exercise_id": "right_elbow_flexion",
+"exercise_name": "Right Elbow Flexion",
+"target_joint": "elbow",
+"mediapipe_keypoints": [12, 14, 16],
+"start_angle": 170,
+"target_angle": 40,
+"error_margin": 10
+},
+{
+"exercise_id": "left_shoulder_abduction",
+"exercise_name": "Left Shoulder Abduction",
+"target_joint": "shoulder",
+"mediapipe_keypoints": [23, 11, 13],
+"start_angle": 15,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "right_shoulder_abduction",
+"exercise_name": "Right Shoulder Abduction",
+"target_joint": "shoulder",
+"mediapipe_keypoints": [24, 12, 14],
+"start_angle": 15,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "left_shoulder_flexion",
+"exercise_name": "Left Shoulder Flexion",
+"target_joint": "shoulder",
+"mediapipe_keypoints": [23, 11, 13],
+"start_angle": 15,
+"target_angle": 150,
+"error_margin": 15
+},
+{
+"exercise_id": "right_shoulder_flexion",
+"exercise_name": "Right Shoulder Flexion",
+"target_joint": "shoulder",
+"mediapipe_keypoints": [24, 12, 14],
+"start_angle": 15,
+"target_angle": 150,
+"error_margin": 15
+},
+{
+"exercise_id": "left_wrist_flexion",
+"exercise_name": "Left Wrist Flexion",
+"target_joint": "wrist",
+"mediapipe_keypoints": [13, 15, 19],
+"start_angle": 180,
+"target_angle": 110,
+"error_margin": 10
+},
+{
+"exercise_id": "right_wrist_flexion",
+"exercise_name": "Right Wrist Flexion",
+"target_joint": "wrist",
+"mediapipe_keypoints": [14, 16, 20],
+"start_angle": 180,
+"target_angle": 110,
+"error_margin": 10
+},
+{
+"exercise_id": "left_knee_extension",
+"exercise_name": "Left Knee Extension",
+"target_joint": "knee",
+"mediapipe_keypoints": [23, 25, 27],
+"start_angle": 90,
+"target_angle": 170,
+"error_margin": 10
+},
+{
+"exercise_id": "right_knee_extension",
+"exercise_name": "Right Knee Extension",
+"target_joint": "knee",
+"mediapipe_keypoints": [24, 26, 28],
+"start_angle": 90,
+"target_angle": 170,
+"error_margin": 10
+},
+{
+"exercise_id": "left_knee_flexion",
+"exercise_name": "Left Knee Flexion",
+"target_joint": "knee",
+"mediapipe_keypoints": [23, 25, 27],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "right_knee_flexion",
+"exercise_name": "Right Knee Flexion",
+"target_joint": "knee",
+"mediapipe_keypoints": [24, 26, 28],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "left_hip_flexion",
+"exercise_name": "Left Hip Flexion",
+"target_joint": "hip",
+"mediapipe_keypoints": [11, 23, 25],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "right_hip_flexion",
+"exercise_name": "Right Hip Flexion",
+"target_joint": "hip",
+"mediapipe_keypoints": [12, 24, 26],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "left_hip_abduction",
+"exercise_name": "Left Hip Abduction",
+"target_joint": "hip",
+"mediapipe_keypoints": [11, 23, 25],
+"start_angle": 180,
+"target_angle": 135,
+"error_margin": 10
+},
+{
+"exercise_id": "right_hip_abduction",
+"exercise_name": "Right Hip Abduction",
+"target_joint": "hip",
+"mediapipe_keypoints": [12, 24, 26],
+"start_angle": 180,
+"target_angle": 135,
+"error_margin": 10
+},
+{
+"exercise_id": "trunk_forward_flexion",
+"exercise_name": "Trunk Forward Flexion",
+"target_joint": "spine",
+"mediapipe_keypoints": [11, 23, 25],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+},
+{
+"exercise_id": "trunk_lateral_flexion_left",
+"exercise_name": "Trunk Lateral Flexion Left",
+"target_joint": "spine",
+"mediapipe_keypoints": [11, 23, 25],
+"start_angle": 180,
+"target_angle": 145,
+"error_margin": 10
+},
+{
+"exercise_id": "trunk_lateral_flexion_right",
+"exercise_name": "Trunk Lateral Flexion Right",
+"target_joint": "spine",
+"mediapipe_keypoints": [12, 24, 26],
+"start_angle": 180,
+"target_angle": 145,
+"error_margin": 10
+},
+{
+"exercise_id": "squat_biomechanic_left",
+"exercise_name": "Squat Biomechanic Left Side",
+"target_joint": "knee",
+"mediapipe_keypoints": [23, 25, 27],
+"start_angle": 180,
+"target_angle": 90,
+"error_margin": 15
+}
+]

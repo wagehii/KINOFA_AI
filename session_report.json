@@ -1,0 +1,35 @@
+{
+  "session_duration_seconds": 220.9,
+  "exercises": {
+    "Deep Squat": {
+      "valid_reps": 1,
+      "missed_reps": 0,
+      "accuracy_pct": 100.0,
+      "max_rom_deg": 82.4,
+      "baseline_ideal_peak_deg": 90.0,
+      "baseline_source": "domain_reference_not_dataset_calibrated"
+    },
+    "Sit To Stand": {
+      "valid_reps": 0,
+      "missed_reps": 0,
+      "accuracy_pct": 0.0,
+      "max_rom_deg": 177.0,
+      "baseline_ideal_peak_deg": 170.0,
+      "baseline_source": "domain_reference_not_dataset_calibrated"
+    },
+    "Standing Shoulder Abduction": {
+      "valid_reps": 1,
+      "missed_reps": 0,
+      "accuracy_pct": 100.0,
+      "max_rom_deg": 161.6,
+      "baseline_ideal_peak_deg": 160.0,
+      "baseline_source": "domain_reference_not_dataset_calibrated"
+    }
+  },
+  "ai_insights": [
+    "Deep Squat: strong form, ROM consistently near target (82.4 deg).",
+    "No reps completed for Sit To Stand.",
+    "Standing Shoulder Abduction: strong form, ROM consistently near target (161.6 deg)."
+  ],
+  "note": "Baselines are domain-reference defaults; recalibrate against actual UI-PRMD per-frame joint statistics before clinical use."
+}
