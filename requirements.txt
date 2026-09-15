@@ -1,0 +1,10 @@
+# CV engine
+numpy<2
+opencv-python
+mediapipe
+requests
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic>=2
